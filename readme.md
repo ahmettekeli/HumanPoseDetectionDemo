@@ -4,7 +4,7 @@
 <p align="center">
   <h3 align="center">Human Pose Detection Demo</h3>
   <p align="center">
-    <a href="https://2021creatives.s3.eu-central-1.amazonaws.com/March/PoseDetectionExample/index.html">Demo Project (The Machine model has been trained using this repo)</a>
+    <a href="https://humanposedetection.netlify.app/">Live</a>
     ·
     <a href="https://github.com/ahmettekeli/HumanPoseDetectionDemo/issues">Report Bug</a>
     ·

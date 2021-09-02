@@ -132,7 +132,9 @@ function classify() {
 function gotResults(error, results) {
 	//  Log output
 	predictionResult.html(`${results[0].label} ${floor(results[0].confidence * 100)}%`);
-	console.error(error);
+	if (error) {
+		console.error(error);
+	}
 }
 
 /**
